@@ -4,7 +4,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  arrray.sort
+  array.sort
 end
 
 def using_reverse(array)
@@ -12,7 +12,7 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  arrray.first
+  array.first
 
 end
 
